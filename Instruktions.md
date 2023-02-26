@@ -44,3 +44,5 @@ git push
 
 fork
 *клонирует чужой репозиторий*
+
+pull requst
